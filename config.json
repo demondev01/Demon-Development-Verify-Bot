@@ -1,0 +1,11 @@
+{
+  "token": "BOT_TOKENINIZI_BURAYA",
+  "clientId": "BOT_CLIENT_ID",
+  "guildId": "SUNUCU_ID",
+  "verifyChannelId": "DOĞRULAMA_KANALI_ID",
+  "unverifiedRoleId": "UNVERIFIED_ROL_ID",
+  "verifiedRoleId": "VERIFIED_ROL_ID",
+  "captchaLength": 6,
+  "captchaTimeoutSec": 120,
+  "maxAttempts": 5
+}

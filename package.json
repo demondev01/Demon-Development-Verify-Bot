@@ -1,0 +1,17 @@
+{
+  "name": "captcha-verification-bot",
+  "version": "1.0.0",
+  "description": "Discord.js v14 captcha doğrulama botu",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "register": "node index.js register"
+  },
+  "author": "brem1n",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "jimp": "^0.22.12"
+  }
+}
